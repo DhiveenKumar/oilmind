@@ -1,0 +1,19 @@
+# Environment variables - NEVER commit real keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Raw documents - too large for GitHub
+corpus/raw/
+
+# VS Code local settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
