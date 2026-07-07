@@ -171,21 +171,8 @@ def run_simple_rag(state: OilMindState) -> OilMindState:
 # =============================================================================
 
 def run_reflection_agent(state: OilMindState) -> OilMindState:
-    """
-    Runs the reflection agent for complex multi-step queries.
-    
-    Currently calls simple_rag as a fallback — reflection_agent.py
-    will be implemented in the next step and wired in here.
-    
-    This stub pattern is good engineering practice:
-    - The graph structure is complete and testable now
-    - The reflection agent can be developed and tested independently
-    - Swapping the stub for the real implementation is a one-line change
-    """
-    
-    # For now — use simple RAG as fallback
-    # Next step: replace with reflection_agent.simple_rag_query()
-    result = simple_rag_query(state["query"])
+    from backend.agent.reflection_agent import reflection_agent_query
+    result = reflection_agent_query(state["query"])
     
     return {
         **state,
