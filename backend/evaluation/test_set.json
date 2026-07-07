@@ -1,0 +1,129 @@
+{
+  "test_cases": [
+    {
+      "question": "What is the OSHA permissible exposure limit for H2S in oil and gas operations?",
+      "reference_answer": "The OSHA permissible exposure limit (PEL) for H2S is 20 ppm, which must not be exceeded at any time during an 8-hour shift. An exposure of 50 ppm is allowed for no more than 10 minutes per 8-hour period provided no other measurable exposure occurs.",
+      "category": "regulatory"
+    },
+    {
+      "question": "At what H2S concentration is immediate danger to life and health?",
+      "reference_answer": "Concentrations of H2S greater than 100 ppm are immediately dangerous to life or health (IDLH). Concentrations above 500 ppm can cause collapse within five minutes, and concentrations exceeding 700 ppm can cause immediate collapse and death.",
+      "category": "safety"
+    },
+    {
+      "question": "What are the IOGP Life Saving Rules for working at height?",
+      "reference_answer": "The IOGP Life Saving Rules for working at height include: inspect fall protection equipment before use, secure tools and materials to prevent dropped objects, and tie off 100% to approved anchor points while outside a protected area.",
+      "category": "procedural"
+    },
+    {
+      "question": "What is the purpose of a two-phase separator in oil production?",
+      "reference_answer": "A two-phase separator separates well flow into two phases: gas and liquid. It uses gravity separation in a horizontal vessel with a retention period of approximately 5 minutes to allow gas to bubble out and liquid to settle.",
+      "category": "technical"
+    },
+    {
+      "question": "What personal protective equipment is required for H2S environments?",
+      "reference_answer": "Workers in H2S environments require personal gas detection devices to monitor H2S levels, self-contained breathing apparatus (SCBA) when concentrations exceed safe limits, and proper respiratory protection complying with NIOSH guidelines and OSHA standard 29 CFR 1910.134.",
+      "category": "safety"
+    },
+    {
+      "question": "What is a Knock-Out Drum used for in gas production?",
+      "reference_answer": "A Knock-Out Drum (K.O. Drum) is used in gas-dominant production to separate remaining liquid droplets from the gas phase. It is an alternative to a two-phase separator when production is mainly gas.",
+      "category": "technical"
+    },
+    {
+      "question": "What must be done before entering a confined space in oil and gas operations?",
+      "reference_answer": "Before entering a confined space, workers must obtain a valid work permit confirming isolation of energy sources and atmospheric testing for hazardous gases. The atmosphere must be tested for oxygen levels and toxic gases including H2S.",
+      "category": "procedural"
+    },
+    {
+      "question": "What are the health effects of short-term H2S exposure?",
+      "reference_answer": "Short-term H2S exposure causes a range of health effects depending on concentration. At low levels it causes eye and respiratory irritation. At higher concentrations it causes headaches, dizziness, and loss of consciousness. At very high concentrations it causes immediate collapse and death.",
+      "category": "safety"
+    },
+    {
+      "question": "What is the IOGP Life Saving Rule for confined space entry?",
+      "reference_answer": "The IOGP Life Saving Rule for confined space entry requires a valid work permit, confirmation that the space is isolated from energy sources, and atmospheric testing before entry. Workers must never enter without these controls in place.",
+      "category": "procedural"
+    },
+    {
+      "question": "How should H2S monitoring equipment be maintained on a well site?",
+      "reference_answer": "H2S detection and alarm systems must be properly maintained and configured to alert workers of dangerous conditions. Personal gas detection devices must be used and maintained. Warning signs must be posted at well sites where H2S is present at high concentrations.",
+      "category": "safety"
+    },
+    {
+      "question": "What is the explosive range of hydrogen sulfide in air?",
+      "reference_answer": "The explosive range of hydrogen sulfide in air is 4.3 to 45 percent. H2S is a highly flammable gas and fires and explosions occur at much higher concentrations than exposure limits.",
+      "category": "safety"
+    },
+    {
+      "question": "What is the retention time in a two-phase separator?",
+      "reference_answer": "The retention time in a two-phase separator is typically around 5 minutes, which allows gas to bubble out and liquid to settle through gravity separation.",
+      "category": "technical"
+    },
+    {
+      "question": "What fall protection equipment must be inspected before working at height?",
+      "reference_answer": "All fall protection equipment including harnesses, lanyards, and anchor points must be inspected for integrity and functionality before use. Equipment must be checked to ensure it is in proper working condition.",
+      "category": "procedural"
+    },
+    {
+      "question": "What OSHA standard applies to H2S exposure limits in general industry?",
+      "reference_answer": "OSHA standard 29 CFR 1910.1000 Table Z-2 applies to H2S exposure limits in general industry, setting the permissible exposure limit at 20 ppm ceiling with a 50 ppm maximum peak for 10 minutes.",
+      "category": "regulatory"
+    },
+    {
+      "question": "What are the dangers of working at height in oil and gas operations?",
+      "reference_answer": "Working at height involves risks including falls, dropped objects, and structural instability. Falls are a leading cause of fatalities. Additional hazards include unprotected floor openings, unsecured ladders, and improper use of scaffolding. Work at height is defined as any work at or above 1.8 metres.",
+      "category": "safety"
+    },
+    {
+      "question": "What is the difference between a two-phase and three-phase separator?",
+      "reference_answer": "A two-phase separator separates well flow into gas and liquid phases. A three-phase separator separates well flow into three phases: gas, oil, and water. Three-phase separators are used when significant water production accompanies oil and gas.",
+      "category": "technical"
+    },
+    {
+      "question": "How does H2S affect workers who become unconscious from exposure?",
+      "reference_answer": "Workers who breathe H2S at levels high enough to become unconscious may continue to experience health effects after regaining consciousness, including headaches, poor attention span, memory problems, and motor function issues. Cardiovascular problems have also been reported.",
+      "category": "safety"
+    },
+    {
+      "question": "What tools and materials requirements apply when working at height?",
+      "reference_answer": "All tools and work materials must be properly secured to prevent dropped objects when working at height. This is required to avoid hazards caused by falling objects which can cause serious injury or death to workers below.",
+      "category": "procedural"
+    },
+    {
+      "question": "What is the NIOSH IDLH for hydrogen sulfide?",
+      "reference_answer": "The NIOSH Immediately Dangerous to Life and Health (IDLH) limit for hydrogen sulfide is 100 parts per million (ppm). Exposure to concentrations at or above this level can quickly lead to incapacitation and death.",
+      "category": "regulatory"
+    },
+    {
+      "question": "What warning signs are required at oil and gas well sites with H2S?",
+      "reference_answer": "Warning signs must be posted indicating the hazards associated with the release of H2S at any well site that has H2S present in the system at high concentrations.",
+      "category": "regulatory"
+    },
+    {
+      "question": "What is the purpose of atmospheric testing before confined space entry?",
+      "reference_answer": "Atmospheric testing before confined space entry is required to check for oxygen deficiency, toxic gases including H2S, and flammable gases. The test confirms the atmosphere is safe for entry and that energy sources have been properly isolated.",
+      "category": "procedural"
+    },
+    {
+      "question": "How does gravity separation work in oil production equipment?",
+      "reference_answer": "Gravity separation works by allowing well flow to enter a horizontal vessel where the difference in density between gas and liquid causes natural separation. Gas rises to the top and liquid settles to the bottom during the retention period.",
+      "category": "technical"
+    },
+    {
+      "question": "What is the anchor point requirement for working at height?",
+      "reference_answer": "Workers must tie off 100% to approved anchor points while outside a protected area such as one enclosed by handrails or other protective barriers. Only approved anchor points must be used for fall protection.",
+      "category": "procedural"
+    },
+    {
+      "question": "What happens to H2S when it burns?",
+      "reference_answer": "When H2S burns it produces other toxic vapors and gases, specifically sulfur dioxide. This means a fire involving H2S creates an additional toxic hazard beyond the original H2S exposure risk.",
+      "category": "safety"
+    },
+    {
+      "question": "What are the OSHA construction standards for H2S exposure?",
+      "reference_answer": "For construction, OSHA standard 29 CFR 1926.55 Appendix A sets an H2S exposure limit of 10 ppm as a time-weighted average. This is more stringent than the general industry standard of 20 ppm ceiling.",
+      "category": "regulatory"
+    }
+  ]
+}
