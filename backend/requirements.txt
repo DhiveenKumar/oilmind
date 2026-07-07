@@ -1,0 +1,32 @@
+# API Framework
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# LangChain + LangGraph — Agent orchestration
+langchain==0.3.7
+langchain-openai==0.2.6
+langchain-community==0.3.7
+langgraph==0.2.45
+
+# Azure AI Search — Vector + Keyword retrieval
+azure-search-documents==11.6.0b5
+azure-identity==1.19.0
+azure-keyvault-secrets==4.9.0
+
+# OpenAI SDK
+openai==1.54.0
+
+# PDF Processing — Reading oil & gas documents
+pymupdf==1.24.11
+
+# Evaluation
+ragas==0.2.6
+
+# Monitoring
+opencensus-ext-azure==1.1.13
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Frontend
+streamlit==1.40.0
